@@ -1,39 +1,45 @@
-# 🚀 Project: Google Hiring Challenge 2026
+# Raines Chen | Senior Backend & System Engineer
 
-## 📌 Vision
-To evolve from a Senior Software Engineer with deep domain expertise into a **Senior Distributed Systems Engineer (L5)**, with the ultimate goal of joining **Google** by 2028.
+Welcome to my technical portfolio and engineering sandbox. 
 
-## 👤 Candidate Profile
-- [cite_start]**Current Role:** System Analyst / Software Maintain Lead 
-- [cite_start]**Core Expertise:** WMS, AGV Control Systems, Automation Integration (PLC/CAPS), and High-Concurrency API Gateways[cite: 12, 17, 27, 28].
-- [cite_start]**Key Achievements:** - Designed 0-to-1 full-stack architectures using Java 17 and Spring Boot 3.
-    - [cite_start]Implemented Event-Driven Architecture (EDA) with ActiveMQ and Redis for high-frequency hardware synchronization[cite: 19].
-    - [cite_start]Resolved complex data consistency and race condition issues in distributed environments.
-- **Growth Areas:** Golang, Low-level CS fundamentals, LeetCode (Algorithms), and Technical English Communication.
+I am a System Analyst and Senior Software Engineer with over 6 years of experience specializing in **Logistics Technology, WMS (Warehouse Management Systems), and Automation Control (AGV/PLC)**. 
 
-## 🛠️ Tech Stack Evolution
-- [cite_start]**Primary Language:** Transitioning from Java 17 [cite: 7] to **Golang**.
-- **Architecture:** Mastering Distributed Systems, Microservices, and Event-Driven Models.
-- [cite_start]**Tools:** Redis, ActiveMQ, Flyway, Testcontainers, and CI/CD automation[cite: 9, 11, 22].
-
-## 📈 Roadmap & Milestones
-- **[Phase 1] Go Low-Level Thinking (Months 1-3):** Master Go syntax, pointers, and memory-efficient concurrency models.
-- **[Phase 2] Hardcore Algorithms (Months 4-9):** Solve 200+ LeetCode problems with a focus on Medium/Hard difficulty.
-- **[Phase 3] System Design (Months 10-15):** Scaling automation control systems to global-tier distributed standards.
-- **[Phase 4] Portfolio & English Mastery (Months 16-24):** High-concurrency Go project showcase and technical English mock interviews.
+This repository serves two main purposes:
+1. **Portfolio Showcase:** A space to demonstrate my transition from Java/Spring Boot to **Golang**, focusing on high-concurrency and Event-Driven Architecture (EDA) for large-scale distributed systems.
+2. **Agile Learning Log:** A transparent, sprint-based tracker of my continuous journey to master FAANG-level System Design and Data Structures & Algorithms.
 
 ---
 
-## 🤖 Instructions for AI Collaborators (System Prompt)
-*If you are an AI assisting with this project, please follow these rules:*
+## 🛠️ Core Competencies
 
-1. **Roleplay:** Act as a **Senior Google Engineer / Technical Mentor**.
-2. **Socratic Method:** Do not provide immediate code solutions. Use hints and architectural questioning to encourage deep analytical thinking.
-3. **Conceptual Depth:** Challenge the user to explain the "Why" and "How" behind system trade-offs.
-4. [cite_start]**Contextual Application:** Use the user's background in Logistics and Automation (AGV/WMS) [cite: 12, 19] to illustrate complex distributed system concepts.
-5. **English Proficiency:** Refine technical terminology and professional communication to match Silicon Valley standards.
+- **Languages:** Java 17, Golang (Transitioning), JavaScript/TypeScript
+- **Architecture:** Event-Driven Architecture (EDA), Microservices, High-Concurrency API Gateways, Hardware Decoupling.
+- **Infrastructure & Middleware:** Redis, ActiveMQ (JMS), Spring Boot 3, Vue 3.
+- **DevOps & DB:** Flyway, Testcontainers, CI/CD, MySQL.
+- **Domain Expertise:** WCS, WMS, AGV integration, State-Machine flow engines.
 
 ---
 
-## 🗂️ Progress Tracking
-*Refer to the [GitHub Issues](https://github.com/RainesTaiwan/google-roadmap-2026/issues) for detailed task tracking and sprint logs.*
+## 🚀 Featured Project: High-Concurrency AGV Dispatcher (WIP)
+*(This project is currently under development. Code and architecture docs will be updated in this repository.)*
+
+**Context:** Drawing from my experience decoupling communication layers for PLCs and AGVs, this project aims to build a scalable, Go-based microservice capable of handling high-frequency status reports from thousands of AGVs.
+**Tech Stack:** `Golang`, `Goroutines`, `Redis`, `Message Queues`
+**Key Objectives:**
+- Implementing asynchronous event processing with strict eventual consistency.
+- Optimizing memory footprint and context-switching overhead using Go's concurrency model over traditional thread-based models.
+
+---
+
+## 📈 Engineering Journey & Task Tracking
+
+I treat my professional development as an Agile project. You can view my current focus, sprint goals, and technical deep-dives in the **[Issues tab](https://github.com/RainesTaiwan/google-roadmap-2026/issues)** of this repository. 
+
+My current milestones are categorized into:
+- `Phase 1`: Go Low-Level Thinking & Concurrency
+- `Phase 2`: Advanced Data Structures & Algorithms (LeetCode Medium/Hard)
+- `Phase 3`: Google-Scale System Design
+- `Phase 4`: English Technical Communication & System Architecture Defense
+
+---
+*Feel free to explore my code or check out my [LinkedIn Profile](https://www.linkedin.com/in/raines-chen-b65212264) for my full professional history.*
